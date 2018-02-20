@@ -1,6 +1,7 @@
 # demo
 This is my first demo file
 first commit
- you'd better use English
+ you'd better use English 
+ 
+ cann't not use UTF-8
 
-鍦╥dea涓婁慨鏀归」鐩�
